@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on beginner-friendly web projects  
 - 🤔 I’m looking for help with JavaScript & backend development  
 - 💬 Ask me about HTML, CSS, Bootstrap, Python, OOP  
-- 📫 How to reach me: GitHub messages  
+- 📫 How to reach me: GitHub messages  or email :userp3895@gmail.com
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I love pink aesthetics and clean code 💗
 
